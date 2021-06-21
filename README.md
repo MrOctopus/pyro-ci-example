@@ -40,13 +40,7 @@ jobs:
     - Builds will be available as artifacts under github action runs
 
 ## Good To Know
-### Useful
 Many of the most commonly used papyrus source files are available online at this [link](https://github.com/MrOctopus/nl_online).
 
-### Important
-At the moment, the workflow setup does not support the '.' character in pyro-generated zip filenames. \
-Please opt for using another character such as '_' instead.
-
 ## Credits
-Although you do not need to credit me for the workflow setup, it is a nice gesture. \
-Specifically, I made two custom github actions to support Pyro CI builds.
+Although you do not need to credit me for the workflow setup, it is a nice gesture.
